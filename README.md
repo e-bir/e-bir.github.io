@@ -1,2 +1,2 @@
-# e-bir.github.io
+# e-bir - Resources For Recycling
 Bangladesh Innovative Recycling
